@@ -196,5 +196,5 @@ Here are some essential tips and strategies to help you prepare for and pass the
 
 **In Conclusion:**
 
-The PMP exam is a challenging but achievable goal. By understanding the exam content outline, format, scoring, and by implementing effective study strategies, you can increase your chances of success. Remember to stay focused, dedicated, and confident in your abilities. In the next chapter, we will begin our exploration of the project management process groups, starting with Initiating the Project.
----
+**The PMP exam is a challenging but achievable goal. By understanding the exam content outline, format, scoring, and by implementing effective study strategies, you can increase your chances of success. Remember to stay focused, dedicated, and confident in your abilities. In the next chapter, we will begin our exploration of the project management process groups, starting with Initiating the Project.
+**---
